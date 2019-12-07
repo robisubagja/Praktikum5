@@ -72,3 +72,6 @@
             
      7. jika user menginputkan ' k ' untuk " keluar program " maka akan keluar dari program
     
+8. Flowchart nya
+
+   ![Screenshot_2019-12-07-23-15-53-486_com drawexpress lite](https://user-images.githubusercontent.com/56831922/70377525-062a5a00-1948-11ea-9bde-2f2f3d06d20e.png)
